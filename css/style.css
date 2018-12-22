@@ -1,0 +1,230 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	background-color: #121B2A;
+}
+.container{
+	width: 80%;
+	margin: 0	auto;
+	overflow: hidden;
+	
+}
+.logo{
+	width: 20%;
+	float: left;
+	}
+.logo img{
+	width: 100%
+}
+.menu{
+	width: 70%;
+	float: right;
+	margin-top: 54px;
+}
+.menu ul{
+	float: right;
+}
+.menu ul li{
+	    list-style: none;
+    	float: left;
+}
+.menu ul li a {
+	text-decoration: none;
+    color: white;
+    padding: 0px 35px;
+    display: block;
+    text-transform: uppercase;
+    transition: .5s;
+}
+.menu ul li:hover a {
+	color: red;
+}
+.menu ul li:last-child a {
+	padding-right: 0;}
+
+.banner{
+	background-image: url(../images/bannerr.jpeg)
+}
+.content{
+	width: 50%;
+	margin-top: 200px;
+	margin-bottom: 100px;
+}
+.content h1{color: red;
+ 	font-size: 50px;
+  	margin-bottom: 2px;
+}
+.content h2{color: orange;
+ margin-top: 2px;
+}
+.content p{color: black;}
+.content button{
+	padding: 2px 40px;
+    font-size: 18px;
+}
+.btn_text{
+	font-size: 25px;
+}
+button img{
+	width: 11%
+}
+/*service*/
+
+.services{
+	background-color: #121B2C;
+	padding: 10px 0;
+	float: left;
+}
+.single{
+	
+	width: 20%;
+}
+.single_title{
+	
+	overflow: hidden;
+
+}
+.s_ing{
+	width: 20%
+	border: 1px solid green;
+	float: left;
+}
+.s_ing img{
+	width: 100%
+}
+.s_head{
+	width: 70%
+	border: 1px solid red;
+	float: left;
+}
+.s_head h1{
+	font-size: 18px;
+	color:white;
+	font-weight: 400;
+	margin: 5px 0;
+
+}
+.s_head h2{
+	font-size: 18px;
+	color:white;
+	font-weight: 400;
+	margin: 0;
+
+}
+/*single2*/
+
+.single2{
+	
+	width: 40%;
+	border: 2px solid white;
+}
+.single_title{
+	
+	overflow: hidden;
+	float: right;
+
+}
+.s_ing{
+	width: 20%
+	border: 1px solid green;
+	float: left;
+}
+.s_ing img{
+	width: 100%
+}
+.s_head{
+	width: 70%
+	border: 1px solid red;
+	float: left;
+}
+.s_head h1{
+	font-size: 18px;
+	color:white;
+	font-weight: 400;
+	margin: 5px 0;
+
+}
+.s_head h2{
+	font-size: 18px;
+	color:white;
+	font-weight: 400;
+	margin: 0;
+
+}
+/*Single3*/
+
+.single3{
+	
+	width: 30%;
+	border: 2px solid white;
+}
+.single_title{
+	
+	overflow: hidden;
+
+}
+.s_ing{
+	width: 20%
+	border: 1px solid green;
+	float: left;
+}
+.s_ing img{
+	width: 100%
+}
+.s_head{
+	width: 70%
+	border: 1px solid red;
+	float: left;
+}
+.s_head h1{
+	font-size: 18px;
+	color:white;
+	font-weight: 400;
+	margin: 5px 0;
+
+}
+.s_head h2{
+	font-size: 18px;
+	color:white;
+	font-weight: 400;
+	margin: 0;
+}
+
+.address{
+	background-color: #040811;
+	border: 5px solid white;
+
+}
+.mailing_address{
+	background-color:#040811;
+}
+	/*footer*/
+.container{
+	width: 80%;
+	margin: 0	auto;
+	overflow: hidden;
+}
+.footer{
+	width: 100;
+	background-color: #121B2C;
+
+}
+.footer ul{
+	float: right;
+}
+.footer ul li{
+	list-style: none;
+    float: left;
+}
+.footer ul li a{
+	text-decoration: none;
+    color: white;
+    padding: 0px 10px;
+    display: block;
+    text-transform: uppercase;
+    transition: .5s;
+}
+.footer ul li a{}
+
